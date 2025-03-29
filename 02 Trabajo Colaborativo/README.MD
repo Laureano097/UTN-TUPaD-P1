@@ -1,3 +1,5 @@
+*TP02 Trabajo Colaborativo Laureano Escoca*
+
 **¿Qué es GitHub?:** GitHub es una plataforma web para alojar y gestionar repositorios de código. Usa Git como sistema base para controlar versiones, permitiendo crear, modificar, organizar y colaborar en proyectos con otros desarrolladores.
 
 **¿Cómo crear un repositorio en GitHub?:** Para crear un repositorio en GitHub se necesita una cuenta acceder a ella y seleccionar en nuevo repositorio, agregar el nombre y descripción, definir si será público o privado. Inmediatamente GitHub nos enseña los comandos de Git para llevar el repositorio a tu computadora.
