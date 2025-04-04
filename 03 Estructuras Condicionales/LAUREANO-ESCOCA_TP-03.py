@@ -12,7 +12,7 @@ if edad >= 18:
 # Ejercicio 2
 
 #Pedimos una nota al usuario
-nota = int(input("Ingrese su nota: "))
+nota = float(input("Ingrese su nota: "))
 
 #estructura condicional para verificar si está aprobado o desaprobado
 if nota >= 6:
@@ -40,7 +40,7 @@ else:
 #Ingreso de edad por el usuario
 edad = int(input("Ingrese su edad: "))
 
-#estructura condicional para determinar niño, adolescente, adulto joven o adulto
+#estructura condicional para determinar niño, adolescente, adulto joven o
 if edad < 12:
     print("Es niño/a")
 elif edad >= 12 and edad < 18:
