@@ -37,8 +37,10 @@ else:
 
 # Ejercicio 4
 
+#Ingreso de edad por el usuario
 edad = int(input("Ingrese su edad: "))
 
+#estructura condicional para determinar niño, adolescente, adulto joven o adulto
 if edad < 12:
     print("Es niño/a")
 elif edad >= 12 and edad < 18:
