@@ -83,7 +83,7 @@ def segundos_a_horas(segundos):
 
 # Pedimos al usuario que ingrese los segundos
 print("\nConvertidor de segundos a horas")
-segundos = int(input("\nIngrese los segundos: "))
+segundos = float(input("\nIngrese los segundos: "))
 
 #Llamamos a la funcion para obtener los resultados y los imprimimos por pantalla
 horas = segundos_a_horas(segundos)
