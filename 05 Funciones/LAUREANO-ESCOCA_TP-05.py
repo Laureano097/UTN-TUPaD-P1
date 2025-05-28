@@ -62,7 +62,7 @@ def calcular_perimetro_circulo(radio):
 
 # Pedimos el radio al usuario y llamamos a las funciones para que se guarde el valor en area y perimetro
 print("Calcular el area y perimetro de un circulo")
-radio = int(input("\nIngrese el radio: "))
+radio = float(input("\nIngrese el radio: "))
 area = calcular_area_circulo(radio)
 perimetro = calcular_perimetro_circulo(radio)
 
